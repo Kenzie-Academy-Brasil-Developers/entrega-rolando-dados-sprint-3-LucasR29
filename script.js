@@ -1,5 +1,3 @@
-const count = [0,0,0,0,0,0,0,0,0,0,0]
-
 const results = document.getElementById('graph')
 const roll = document.getElementById('roll')
 
