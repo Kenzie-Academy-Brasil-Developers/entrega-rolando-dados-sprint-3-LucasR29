@@ -1,0 +1,7 @@
+.graph{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    gap:1px
+}
+
